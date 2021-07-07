@@ -55,9 +55,10 @@ p {
   text-align: center;
 }
 
-a:link {
-  color: #8f99a4;
+a {
+  color: #1e1f20;
   text-decoration: none;
+  font-weight: 600;
 }
 
 ul li p {
